@@ -1,0 +1,14 @@
+[
+  {
+    "id": "course1",
+    "title": "Intro to Algebra",
+    "description": "Basic algebra course for beginners",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "6th–8th",
+    "minAge": 11,
+    "maxAge": 14,
+    "price": 120.5,
+    "nextSessionDate": "2025-08-01T10:00:00Z"
+  }
+]
